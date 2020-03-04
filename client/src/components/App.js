@@ -14,7 +14,7 @@ import StreamShow from './streams/StreamShow';
 
 const App = () => {
     return (
-        <div>
+        <div className="container">
             <BrowserRouter>
                 <div>
                     <Header />
